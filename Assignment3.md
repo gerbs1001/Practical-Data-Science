@@ -2,7 +2,6 @@ Practical-Data-Science
 ======================
 student_file=open("assignment1.txt","r")
 
-
 lines = 0
 experienceunix4=3
 experienceunix3=2
