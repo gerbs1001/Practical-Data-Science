@@ -1,8 +1,10 @@
 Practical-Data-Science
-======================
+
 
 Practice and classwork from the NYU Stern Practical Data Science Course 
 student_file=open("assignment1.txt","r")
+======================
+
 
 lines = 0
 experienceunix4=3
@@ -73,19 +75,16 @@ for line in student_file:
 		experiencerprog1=experienceprog1+1
 
 
-
 print experienceunix4
 print experienceunix3
 print experienceunix2
 print experienceunix1
-
 
 print experiencedb5
 print experiencedb4
 print experiencedb3
 print experiencedb2
 print experiencedb1
-
 
 print experienceprog5
 print experienceprog4
