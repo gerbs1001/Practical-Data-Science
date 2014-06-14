@@ -1,9 +1,6 @@
 Practical-Data-Science
-
-
-Practice and classwork from the NYU Stern Practical Data Science Course 
-student_file=open("assignment1.txt","r")
 ======================
+student_file=open("assignment1.txt","r")
 
 
 lines = 0
